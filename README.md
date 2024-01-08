@@ -1,16 +1,18 @@
-### Hi there 👋
+# Me
+ - 17yo
+ - he/him
+ - Сергей(sergey)
 
-<!--
-**ImCocos/ImCocos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently
+ - not working
+ - level - junior/intern
 
-Here are some ideas to get you started:
+# Stack
+ - aiogram
+ - django
+ - DRF
+ - fastapi
+ - scrappy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Favorite projects
+ - [ChatRoulette](https://github.com/severnayaluna/nude_chat)
