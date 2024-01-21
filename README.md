@@ -16,3 +16,4 @@
 
 # Favorite projects
  - [ChatRoulette](https://github.com/severnayaluna/nude_chat)
+ - [Django-Nginx-Gunicorn-Deploy](https://github.com/ImCocos/Django-Nginx-Gunicorn-Deploy)
