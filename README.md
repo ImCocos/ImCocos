@@ -16,4 +16,4 @@
 
 # Favorite projects
 
- - [Django-Nginx-Gunicorn-Deploy](https://github.com/ImCocos/Django-Nginx-Gunicorn-Deploy)
+ - [osscs](https://github.com/imcocos/ritatop)
